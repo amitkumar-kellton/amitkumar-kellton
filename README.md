@@ -3,8 +3,7 @@
 🔹 **Software Quality Analyst | Java, Selenium**  
 🔹 **Experienced in Web Automation, API Automation, Manual Testing**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=amitk432&label=Profile%20views&color=0e75b6&style=flat)  
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=amitk432.amitk432)  
+![Profile Views](https://komarev.com/ghpvc/?username=amitk432&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
